@@ -2,8 +2,8 @@ class Magsafe < Formula
   desc "Control the light on Apple's MagSafe 3 cable"
   homepage "https://github.com/mpopv/magsafe-cli"
   url "https://github.com/mpopv/magsafe-cli.git",
-      tag:      "v0.9.0",
-      revision: "c598f311dacbbfc2bb40e7cc64e979995e1a54ad"
+      tag:      "v0.10.0",
+      revision: "6be3cee8d88d7d8ca290951d055c8d23d50f689e"
   license "MIT"
   head "https://github.com/mpopv/magsafe-cli.git", branch: "main"
 
